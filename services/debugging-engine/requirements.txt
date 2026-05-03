@@ -1,0 +1,17 @@
+# FastAPI and server
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+
+# Code analysis tools
+pylint
+mypy
+
+# Tree-sitter for C++ and Java parsing
+tree-sitter
+tree-sitter-cpp
+tree-sitter-java
+
+# Additional dependencies
+python-dotenv

@@ -1,0 +1,26 @@
+# watsonx.ai Integration Service Dependencies
+
+# IBM watsonx.ai SDK
+ibm-watsonx-ai
+ibm-cloud-sdk-core
+
+# Web Framework
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Data Validation
+pydantic
+
+# HTTP Client
+aiohttp
+
+# Caching (optional, for production)
+redis
+
+# Testing
+pytest
+pytest-asyncio
+httpx
+
+# Made with Bob

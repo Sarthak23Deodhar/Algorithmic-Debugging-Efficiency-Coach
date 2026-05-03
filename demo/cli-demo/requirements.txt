@@ -1,0 +1,10 @@
+# CLI Demo Application Requirements
+
+# HTTP client for API calls
+requests==2.31.0
+
+# Terminal colors and formatting
+colorama==0.4.6
+
+# Optional: Rich for enhanced terminal output
+rich==13.7.0

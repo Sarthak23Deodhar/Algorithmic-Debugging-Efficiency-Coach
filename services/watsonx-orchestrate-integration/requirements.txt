@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+aiohttp
+python-multipart
+ibm-cloud-sdk-core
+jira
+PyGithub
+redis
