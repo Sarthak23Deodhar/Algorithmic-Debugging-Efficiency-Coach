@@ -372,10 +372,6 @@ algo-coach/
 - [ ] Automated test generation
 - [ ] CI/CD pipeline integration
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **IBM watsonx** for AI capabilities
@@ -389,7 +385,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Documentation**: See `/docs` directory
 - **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/your-repo/discussions)
-- **Email**: support@example.com
+- **Email**:sarthakdeodhar23@gmail.com
 
 ## 🔗 Links
 
